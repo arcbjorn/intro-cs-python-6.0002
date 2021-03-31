@@ -1,4 +1,4 @@
-# Welcome to my 6.0001 Coursework
+# Welcome to my 6.0002 Coursework
 
 All the assignments and tests will be in this repository.
 
