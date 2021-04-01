@@ -32,5 +32,6 @@ python -m pip install -r requirements.txt
 ## Run any of the programs
 
 ```sh
-python <program-name>/<program-name>.py
+cd <assignment-code>
+python <program-name>.py
 ```
